@@ -1,3 +1,5 @@
+// Author: Tsamo Tchinda Rooswell
+
 //Declarations des etudiants
  // remplacons var par const cas les objets ne sont pas reassignes
  const student1 = {
