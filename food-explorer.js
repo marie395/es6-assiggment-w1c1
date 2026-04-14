@@ -1,3 +1,5 @@
+// Author : Tsamo Tchinda Rooswell
+
 // fetch des donnees
 const getFoods = async () => {
     try {
